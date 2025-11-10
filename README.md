@@ -33,8 +33,8 @@ Simulation der Konfiguration und Überprüfung von Benutzerberechtigungen in Mic
 
 ## Screenshots
 
-- folder_permissions.png → Ordnerberechtigungen  
-- file_permissions.png → Datei-Berechtigungen  
-- readonly_luca.png → Testzugriff Luca (Schreibgeschützt)
-- edit_maria.png → Testzugriff Maria (Sie konnte schreiben - "Ich kann bearbeiten - Maria")
+- folder_permissions.png → ![Ordnerberechtigungen](Screenshots/folder_permissions.png)  
+- file_permissions.png → ![Datei-Berechtigungen](Screenshots/file_permissions.png)  
+- readonly_luca.png → ![Nur-Lesen – Luca](Screenshots/readonly_luca.png)
+- edit_maria.png → ![Bearbeiten – Maria](Screenshots/edit_maria.png)
 
