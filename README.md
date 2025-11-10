@@ -36,5 +36,5 @@ Simulation der Konfiguration und Überprüfung von Benutzerberechtigungen in Mic
 - folder_permissions.png → Ordnerberechtigungen  
 - file_permissions.png → Datei-Berechtigungen  
 - readonly_luca.png → Testzugriff Luca (Schreibgeschützt)
-- edit_maria.png
+- edit_maria.png → Testzugriff Maria (Sie konnte schreiben - "Ich kann bearbeiten - Maria")
 
